@@ -1,0 +1,2 @@
+# goit-js-hw-06
+JAVASCRIPT HOMEWORK #06
