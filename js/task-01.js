@@ -1,7 +1,11 @@
 const list = document.querySelector('#categories');
 const listChildrenCount = list.children.length;
 
-console.log(`Number of categories: ${listChildrenCount}`);
+// Correction from Sir Val
+console.log('Number of categories:', listChildrenCount);
+
+// My Error Code
+// console.log(`Number of categories: ${listChildrenCount}`);
 
 const listItems = document.querySelectorAll('.item');
 
